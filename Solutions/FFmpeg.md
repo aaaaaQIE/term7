@@ -137,3 +137,9 @@ ffmpeg -i INPUT.gif -s {WxH} INPUT.gif
 ffmpeg -i INPUT.gif -s 320x240 INPUT.gif
 ```
 
+### 8、合并音视频流
+
+```
+ffmpeg -i video.mp4 -i audio.mp3 -c:v copy -c:a aac OUTPUT.mp4
+```
+
