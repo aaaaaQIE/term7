@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "953817bbacf8ac35",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b46838d0e0c2f6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2f2141d057fdc1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工程热力学/8.压气机的热力过程.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8976c34f80a1a430",
+    "type": "split",
+    "children": [
+      {
+        "id": "1575d70d1800d4c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b83f16ca4d63659",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a3309557bec29f54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0081b0d52e6cb27",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "17b1b246c5ecd63d",
+    "type": "split",
+    "children": [
+      {
+        "id": "950eba62963802e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0f207f5e9b23da2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "工程热力学/8.压气机的热力过程.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e76cdd4fc372692",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "工程热力学/8.压气机的热力过程.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47c03a9bc5f45bfc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3e6d5188162dd38d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "工程热力学/8.压气机的热力过程.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "e2f2141d057fdc1a",
+  "lastOpenFiles": [
+    "工程热力学/7.气体与蒸汽的流动.md",
+    "工程热力学/8.压气机的热力过程.md",
+    "工程热力学/5.热力学第二定律.md"
+  ]
+}
